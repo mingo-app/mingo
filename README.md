@@ -17,3 +17,5 @@ Our goal is to create a reliable, good-looking and easy-to-use app that would so
 - Data imports
 - Schema analyzer and schema validation
 - ...and whatever you (users) come up with
+
+Please submit ISSUES or feature requests.
