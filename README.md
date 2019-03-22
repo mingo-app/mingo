@@ -1,6 +1,6 @@
 Our goal is to create a reliable, good-looking and easy-to-use app that would solve our own struggles with existing MongoDB GUIs. 
 
-##Main features include: 
+#Main features include: 
 - Projects - GUI the way we want it to work
 - Tabs just like in a browser
 - Table & tree view combined
@@ -9,7 +9,7 @@ Our goal is to create a reliable, good-looking and easy-to-use app that would so
 - Inline editing
 - Undo functionality
 
-##Currently working on:
+#Currently working on:
 - Mongo shell
 - Database, collection, index manipulation
 - Aggregator
