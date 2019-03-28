@@ -15,6 +15,7 @@ https://www.mingo.io/
 # Currently working on:
 - Mongo shell
 - Database, collection, index manipulation
+- Dark theme (app design)
 - Aggregator
 - Mouse-less usage with keyboard shortcuts
 - Data imports
