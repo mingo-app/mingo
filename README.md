@@ -12,23 +12,21 @@ https://www.mingo.io/
 - Inline editing
 - Undo functionality
 - Write-Lock to prevent unintended changes on documents
+- Data schema analyzer
+- Compare & Sync entire databases (or selected collections)
 - Aggregator (with autocomplete, examples)
 - Database actions (drop, rename)
 - Collection actions (clear, drop, rename)
 - Field actions (rename field, show distinct values)
 - Node JS shell
 - Views management
-- Index management
+- Indexes management
 
 
 # Currently working on:
 - Dark theme (app design)
 - Data imports & exports
-- Schema analyzer and schema validation
-- Compare & Sync
 - Updater
 - Users / Roles / Privileges
-- loads of minor features, graphic and performance improvements
-- ...and whatever you (users) come up with
 
 Please submit ISSUES or feature requests.
