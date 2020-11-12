@@ -1,9 +1,18 @@
-Our goal is to create a reliable, good-looking and easy-to-use app that would solve our own struggles with existing MongoDB GUIs. 
+### About Mingo
 
-## Download
+Mingo is currently the most interesting MongoDB GUI, because it’s been created by developers for developers. The goal is simple, to offer you the best MongoDB admin; built on our programming experience and on your feedback. 
+
+We focus on security, speed and user experience, while keeping Mingo great for both newbies and experienced users. The best part is that our intuitive MongoDB browser is packed with features we felt were missing in other MongoDB GUIs.
+
+![Mingo - the MongoDB admin](https://mingo.io/_nuxt/img/6f4053e.png)
+
+### Download
 https://www.mingo.io/
 
-# Main features include: 
+### What's new in v1.3.x?
+We have completely redesigned our navigation based on your feedback, added tons of new features and fixed several bugs. 
+
+### Main features include: 
 - Projects - GUI the way we want it to work
 - Tabs just like in a browser
 - Table & tree view combined
@@ -22,11 +31,13 @@ https://www.mingo.io/
 - Views management
 - Indexes management
 
+### What are we working on?
+- A interactive DUMP / RESTORE interface
+- Improvements of our Compare & Sync tool
+- Dark mode
+- A beautiful Data Vizualizer
+- Embedded Mongo shell
+- ... and much more
 
-# Currently working on:
-- Dark theme (app design)
-- Data imports & exports
-- Updater
-- Users / Roles / Privileges
 
-Please submit ISSUES or feature requests.
+Please submit ISSUES or feature requests!
