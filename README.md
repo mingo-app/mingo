@@ -9,35 +9,4 @@ We focus on security, speed and user experience, while keeping Mingo great for b
 ### Download
 https://www.mingo.io/
 
-### What's new in v1.3.x?
-We have completely redesigned our navigation based on your feedback, added tons of new features and fixed several bugs. 
-
-### Main features include: 
-- Projects - GUI the way we want it to work
-- Tabs just like in a browser
-- Table & tree view combined
-- Selector history and bookmarking your searches
-- Human-readable dates in selector, e.g. {createdAt: #thisWeek}
-- Inline editing
-- Undo functionality
-- Write-Lock to prevent unintended changes on documents
-- Data schema analyzer
-- Compare & Sync entire databases (or selected collections)
-- Aggregator (with autocomplete, examples)
-- Database actions (drop, rename)
-- Collection actions (clear, drop, rename)
-- Field actions (rename field, show distinct values)
-- Node JS shell
-- Views management
-- Indexes management
-
-### What are we working on?
-- A interactive DUMP / RESTORE interface
-- Improvements of our Compare & Sync tool
-- Dark mode
-- A beautiful Data Vizualizer
-- Embedded Mongo shell
-- ... and much more
-
-
 Please submit ISSUES or feature requests!
